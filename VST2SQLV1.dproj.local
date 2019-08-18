@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\NPS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\NPS\Desktop\Learn_Visio_SamiN\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\NPS\Desktop\Learn_Visio_SamiN\Project1.dproj=C:\Users\NPS\Desktop\VST2SQL\VST2SQLV1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=C:\Users\NPS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\NPS\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\NPS\Desktop\Learn_Visio_SamiN\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.560,C:\Users\NPS\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\NPS\Desktop\Learn_Visio_SamiN\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
