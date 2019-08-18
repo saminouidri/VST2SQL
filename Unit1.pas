@@ -57,7 +57,7 @@ type
   end;
 
   {
-   Projet : Learn Visio!
+   Projet : VST2SQL
    Auteur : Sami N.
    Status : Finished.
    }
