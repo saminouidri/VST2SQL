@@ -58,7 +58,7 @@ type
 
   {
    Projet : Learn Visio!
-   Auteur : Sami N., Sam N.
+   Auteur : Sami N.
    Status : Finished.
    }
 
